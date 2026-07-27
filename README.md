@@ -1,5 +1,8 @@
 # 🧠 Smart Precision Irrigation Model
 
+![Static Badge](https://img.shields.io/badge/%5E3.14-build?logo=keras&logoColor=%23D00000&label=Keras&color=%23D00000)
+![Static Badge](https://img.shields.io/badge/%5E1.4-build?logo=keras&logoColor=%23D00000&label=Keras%20Tuner&color=%23D00000)
+
 Machine learning pipeline for **Autoencoder-based Fault Detection and Diagnosis (FDD)** in an IoT-enabled Smart Precision Irrigation system for avocado cultivation.
 
 This repository contains the complete machine learning workflow, including dataset preparation, preprocessing, model training, hyperparameter tuning, evaluation, and model export. The trained model is used by the deployment system to perform real-time anomaly detection and fault diagnosis.
