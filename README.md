@@ -1,4 +1,4 @@
-# 🧠 Smart Precision Irrigation Model
+# 🧠 Autoencoder-based Fault Detection and Diagnosis Model
 
 ![Static Badge](https://img.shields.io/badge/%5E3.14-build?logo=keras&logoColor=%23D00000&label=Keras&color=%23D00000)
 ![Static Badge](https://img.shields.io/badge/%5E1.4-build?logo=keras&logoColor=%23D00000&label=Keras%20Tuner&color=%23D00000)
